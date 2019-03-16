@@ -1,4 +1,4 @@
-package com.karabukuniveristesi.beste_mert.e_nakliye;
+package com.karabukuniveristesi.beste.e_nakliye;
 
 import android.app.ProgressDialog;
 import android.content.Context;
